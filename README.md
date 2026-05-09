@@ -37,13 +37,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=VikashChowdri&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VikashChowdri&theme=tokyonight&hide_border=true&layout=compact)
-
-
